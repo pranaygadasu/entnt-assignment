@@ -24,3 +24,8 @@ A responsive role-based React application to manage ship components, maintenance
 - **Engineer**: Read/Write jobs
 - **Inspector**: Read-only
 
+const users = [
+  { id: '1', role: 'Admin', email: 'admin@entnt.in', password: 'admin123' },
+  { id: '2', role: 'Inspector', email: 'inspector@entnt.in', password: 'inspect123' },
+  { id: '3', role: 'Engineer', email: 'engineer@entnt.in', password: 'engine123' }
+];
